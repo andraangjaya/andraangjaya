@@ -6,7 +6,7 @@
       <p>🎯 <strong>Aspiring Full-Stack Web Developer</strong></p>
       <p>🌱 <strong>Learning Java, Spring Boot, Angular, Tailwind</strong></p>
       <p>🚀 <strong>Exploring IoT with Arduino & ESP32 on the side</strong></p>
-      <p>✨ <strong>Hobbies : Robotics and Guitar</strong></p>
+      <p>✨ <strong>Hobbies, Robotics and Guitar</strong></p>
 </div>
 
 
