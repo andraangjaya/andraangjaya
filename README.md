@@ -1,24 +1,9 @@
 ## Hi there 👋
 
-
-
-Here are some ideas to get you started:
+<h3 align="left"><strong>🙋 About Me</strong></h3>
 
 <div>
-      <p>💻 <strong>Passionate about</strong>: <strong>Full-Stack Web Development</strong></p>
+      <p><strong>Software Developer</strong></p>
+      <p><strong>Student</strong></p>
+      <p><strong>On a journey to Full-Stack Web Development with <strong>Java, Spring Boot, Angular, Tailwind</strong></p>
 </div>
-
-- 💻 Passionate about Web & Mobile Development  
-- 🌱 Currently learning Spring Boot & Angular  
-- 🚀 Building projects in IoT and AI  
-- 🎯 Goal: Create impactful apps that solve real-world problems
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
