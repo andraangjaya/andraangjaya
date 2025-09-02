@@ -11,7 +11,7 @@
 
 <div align="center">
       <h2>🛠️ Tech Stack</h2>
-      <img src="https://skillicons.dev/icons?i=intellij,postgres,tailwind,java,spring,angular" />
+      <img src="https://skillicons.dev/icons?i=idea,postgres,tailwind,java,spring,angular" />
 </div>
 
 
