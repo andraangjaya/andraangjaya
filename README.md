@@ -20,13 +20,7 @@
 
 <br>
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
-
-  <img width="480" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andraangjaya&count_private=true&theme=tokyonight&border_radius=10" />
-
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=andraangjaya&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
-
-</div>
+<img width=480 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andraangjaya&count_private=true&theme=tokyonight&border_radius=10"/> <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=andraangjaya&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
 
 
 
