@@ -8,7 +8,7 @@
       <p>🚀 <strong>Exploring IoT with Arduino & ESP32 on the side</strong></p>
       <p>✨ <strong>Hobbies : Robotics and Guitar</strong></p>
 </div>
-
+<br>
 <div align="center">
       <h2>🛠️ Tech Stack</h2>
       <img src="https://skillicons.dev/icons?i=git,idea,postgres,tailwind,java,spring"/>
