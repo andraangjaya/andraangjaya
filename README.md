@@ -5,5 +5,5 @@
 <div>
       <p><strong>Software Developer</strong></p>
       <p><strong>Student</strong></p>
-      <p><strong>On a journey to Full-Stack Web Development with <strong>Java, Spring Boot, Angular, Tailwind</strong></p>
+      <p><On a journey to Full-Stack Web Development with <strong> Java, Spring Boot, Angular, Tailwind</strong></p>
 </div>
