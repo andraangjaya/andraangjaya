@@ -5,6 +5,15 @@
 
 Here are some ideas to get you started:
 
+<div>
+      <p>💻 <strong>Passionate about</strong>: <strong>Full-Stack Web Development</strong></p>
+</div>
+
+- 💻 Passionate about Web & Mobile Development  
+- 🌱 Currently learning Spring Boot & Angular  
+- 🚀 Building projects in IoT and AI  
+- 🎯 Goal: Create impactful apps that solve real-world problems
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
