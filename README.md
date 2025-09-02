@@ -12,9 +12,8 @@
 <br>
 
 ---
-
-<div align="center">
 ### 🛠️ Tech Stack
+<div align="center">
       <img src="https://skillicons.dev/icons?i=git,idea,postgres,tailwind,java,spring"/>
       <br>
       <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,arduino,postman,figma"/>
