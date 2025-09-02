@@ -20,7 +20,7 @@
 
 <br>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
 
   <img width="480" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andraangjaya&count_private=true&theme=tokyonight&border_radius=10" />
 
