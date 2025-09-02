@@ -19,7 +19,9 @@
       <br>
       <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,arduino,postman,figma"/>
 </div>
+
 ---
+
 <br>
 <br>
 
