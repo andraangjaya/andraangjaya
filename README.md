@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="left"><strong>🙋 About Me</strong></h3>
+<h2 align="left"><strong>🙋 About Me</strong></h2>
 
 <div>
       <p>💻 <strong>Software Developer</strong></p>
