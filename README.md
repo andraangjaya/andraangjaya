@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2 align="left"><strong>🙋 About Me</strong></h2>
 
 <div>
