@@ -21,8 +21,9 @@
 <br>
 
 <div align="center">
-      <div style="display: flex; flex-direction: row; gap:50px;">
-      <img width=480 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andraangjaya&count_private=true&theme=tokyonight&border_radius=10"/> 
+      <h2>🛠️ Tech Stack</h2>
+      <div style="display: flex; flex-direction: row; align-items: flex-start;">
+      <img width=480 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andraangjaya&count_private=true&theme=tokyonight&border_radius=10" style="margin-right: 20px;"/> 
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=andraangjaya&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
       </div>
 </div>
