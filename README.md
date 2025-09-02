@@ -9,8 +9,11 @@
       <p>✨ <strong>Hobbies : Robotics and Guitar</strong></p>
 </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=intellij,postgres,tailwind,java,spring,angular" />
+<div align="center">
+      <h2>🛠️ Tech Stack</h2>
+      <img src="https://skillicons.dev/icons?i=intellij,postgres,tailwind,java,spring,angular" />
+</div>
+
 
 
 
