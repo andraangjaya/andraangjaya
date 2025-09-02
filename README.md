@@ -8,12 +8,22 @@
       <p>🚀 <strong>Exploring IoT with Arduino & ESP32 on the side</strong></p>
       <p>✨ <strong>Hobbies : Robotics and Guitar</strong></p>
 </div>
+
 <br>
+
 <div align="center">
       <h2>🛠️ Tech Stack</h2>
       <img src="https://skillicons.dev/icons?i=git,idea,postgres,tailwind,java,spring"/>
       <br>
       <img src="https://skillicons.dev/icons?i=angular,typescript,arduino,postman,figma"/>
+</div>
+
+<br>
+
+<div align="center">
+      <h2>📊 Status</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 </div>
 
 
