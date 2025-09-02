@@ -12,8 +12,9 @@
 <br>
 
 ---
-### 🛠️ Tech Stack
+
 <div align="center">
+      ### 🛠️ Tech Stack
       <img src="https://skillicons.dev/icons?i=git,idea,postgres,tailwind,java,spring"/>
       <br>
       <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,arduino,postman,figma"/>
@@ -24,7 +25,6 @@
 
 <div align="center">
       ### 📊 Status
-      ---
       <img width=480 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=andraangjaya&count_private=true&theme=tokyonight&border_radius=10" style="margin-right: 20px;"/> &nbsp;&nbsp;&nbsp; 
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=andraangjaya&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
